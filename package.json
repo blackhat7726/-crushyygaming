@@ -1,0 +1,21 @@
+{
+  "name": "crushyygaming-site",
+  "version": "1.0.0",
+  "description": "Crushyy Championship registration and gaming site",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static HTML build complete'",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "gaming",
+    "tournament",
+    "esports"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
